@@ -1,0 +1,33 @@
+{
+  "qian_yu": {
+    "1": {
+      "amount": 600,
+      "shared_by": []
+    }
+  },
+
+  "li_dashuang": {
+    "1": {
+      "amount": 0,
+      "shared_by": []
+    }
+  },
+
+  "liu_xinyu": {
+    "1": {
+      "amount": 300,
+      "shared_by": []
+    }
+  },
+
+  "liu_yang": {
+    "1": {
+      "amount": 200,
+      "shared_by": []
+    },
+    "2": {
+      "amount": 20,
+      "shared_by": []
+    }
+  }
+}
