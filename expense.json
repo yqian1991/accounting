@@ -8,15 +8,23 @@
 
   "li_dashuang": {
     "1": {
-      "amount": 0,
+      "amount": 173.87,
       "shared_by": []
     }
   },
 
   "liu_xinyu": {
     "1": {
-      "amount": 0,
+      "amount": 276.47,
       "shared_by": []
+    },
+    "2": {
+      "amount": 39.53,
+      "shared_by": ["liu_yang", "liu_xinyu", "qian_yu"]
+    },
+    "3": {
+      "amount": 24.21,
+      "shared_by": ["li_dashuang", "liu_xinyu"]
     }
   },
 
