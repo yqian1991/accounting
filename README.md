@@ -2,7 +2,7 @@
 Accounting script
 
 # How to use
-1. Record the expense in expense.json
+## Record the expense in expense.json
 If an amount is shared by all the people, then you can leave "shared_by" empty
 ```
 {
@@ -33,7 +33,7 @@ the name mush be exactly the same in the file
 ```
 As you see, you can also set multiple records for the same person.
 
-2. Run
+## Run
 ```python
 python finance.py expense.json
 ```
