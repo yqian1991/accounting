@@ -37,3 +37,7 @@ As you see, you can also set multiple records for the same person.
 ```python
 python finance.py expense.json
 ```
+If you are sure the result is right, run the following again to record the result to a txt file
+```python
+python finance.py expense.json true
+```

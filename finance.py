@@ -3,7 +3,8 @@ import operator
 from utils import (
     print_cost_matrix,
     print_result,
-    read_json_file_to_dict
+    read_json_file_to_dict,
+    record_result
 )
 
 
@@ -102,6 +103,7 @@ def minimize_cost_matrix(matrix):
 def main():
     args = sys.argv[1:]
     file_name = args[0]
+    record = args[1] if len(args) >= 2 else False
     expense = read_json_file_to_dict(file_name)
     print 'Initialize people and expenses...'
     name_book, cost_matrix = set_name_book(expense)
@@ -114,7 +116,10 @@ def main():
     print_cost_matrix(cost_matrix)
     cost_matrix = minimize_cost_matrix(cost_matrix)
     print '\nMinimized result:'
-    print_result(name_book, cost_matrix)
+    result = print_result(name_book, cost_matrix)
+    if record:
+        record_result("result.txt", result)
+
 
 if __name__ == '__main__':
     main()

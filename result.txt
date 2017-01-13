@@ -1,0 +1,6 @@
+
+2017-01-13 16:43:12.433779
+ 1: liu_xinyu should pay $71.1541666667 to liu_yang
+ 2: li_dashuang should pay $149.7225 to liu_yang
+ 3: qian_yu should pay $239.824166667 to liu_yang
+
