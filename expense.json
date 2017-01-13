@@ -1,7 +1,7 @@
 {
   "qian_yu": {
     "1": {
-      "amount": 600,
+      "amount": 84.84,
       "shared_by": []
     }
   },
@@ -15,19 +15,19 @@
 
   "liu_xinyu": {
     "1": {
-      "amount": 300,
+      "amount": 0,
       "shared_by": []
     }
   },
 
   "liu_yang": {
     "1": {
-      "amount": 200,
+      "amount": 710.77,
       "shared_by": []
     },
     "2": {
-      "amount": 20,
-      "shared_by": []
+      "amount": 149.19,
+      "shared_by": ["liu_yang", "liu_xinyu"]
     }
   }
 }
