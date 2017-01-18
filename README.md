@@ -16,7 +16,7 @@ If an amount is shared by all the people, then you can leave "shared_by" empty
 
 ```
 If an amount is shared by some people, you should list their names in "shared_by",
-the name mush be exactly the same in the file
+the name must be exactly the same in the file
 ```
 {
   "liu_yang": {
