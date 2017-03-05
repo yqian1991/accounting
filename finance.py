@@ -117,7 +117,7 @@ def main():
     cost_matrix = minimize_cost_matrix(cost_matrix)
     print '\nMinimized result:'
     result = print_result(name_book, cost_matrix)
-    if record:
+    if record == "save":
         record_result("result.txt", result)
 
 
