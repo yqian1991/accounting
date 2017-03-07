@@ -4,8 +4,7 @@
  2: li_dashuang should pay $149.7225 to liu_yang
  3: qian_yu should pay $239.824166667 to liu_yang
 
-
-2017-03-06 21:49:52.957983
- 1: qian_yu should pay $246.273333333 to liu_xinyu
- 2: liu_yang should pay $58.5583333333 to liu_xinyu
- 3: liu_yang should pay $38.3016666667 to li_dashuang
+2017-03-06 22:19:15.244498
+ 1: li_dashuang should pay $27.3658333333 to liu_xinyu
+ 2: qian_yu should pay $211.798333333 to liu_xinyu
+ 3: qian_yu should pay $100.1425 to liu_yang
