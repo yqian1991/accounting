@@ -1,0 +1,29 @@
+{
+  "Yu": {
+    "1": {
+      "amount": 1425.75,
+      "shared_by": ["Yu", "Danfeng", "Xinze", "Vincent", "Yang", "Shuang", "Jianbin"]
+    }
+  },
+  "Yang": {
+    "1": {
+      "amount": 95.75,
+      "shared_by": []
+    }
+  },
+  "Xinze": {
+    "1": {
+      "amount": 90,
+      "shared_by": []
+    }
+  },
+  "Jianbin": {
+    "1": {
+      "amount": 23.28,
+      "shared_by": []
+    }
+  },
+  "Danfeng": {},
+  "Shuang": {},
+  "Vincent": {}
+}
